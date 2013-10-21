@@ -1,0 +1,16 @@
+{
+    "name": "ebussola/common-pool",
+    "description": "Inspired on Object Pool Pattern",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Leonardo Shinagawa",
+            "email": "leonardo@ebussola.com"
+        }
+    ],
+    "autoload" : {
+        "psr-0" : {
+            "ebussola\\common\\pool" : "src/"
+        }
+    }
+}
